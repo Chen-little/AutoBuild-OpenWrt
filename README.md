@@ -1,4 +1,5 @@
 ```bash
+#config文件通过如下命令得到
 ./scripts/diffconfig.sh > diffconfig
 
 .config(full) ->(difffconfig.sh) diffconfig
